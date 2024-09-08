@@ -19,6 +19,7 @@ classifiers = [
 dependencies = [
     "jupyter",
     "matplotlib",
+    "numpy ~=1.26.0",
     "pandas",
     "plotly",
     "scipy",
